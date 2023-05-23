@@ -7,4 +7,4 @@
 ![image](https://github.com/kunal226/food-delivery-website/assets/129434545/c69d7f26-e925-4889-96b2-5a0431366b47)
 
 ## Live Preview
-[Food Delivery]{https://food-delivery-site-1.netlify.app/}
+[Food Delivery](https://food-delivery-site-1.netlify.app/)
